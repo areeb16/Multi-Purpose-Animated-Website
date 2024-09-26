@@ -14,6 +14,8 @@ Enhance Functionality: Add or modify JavaScript to include additional functional
 Technologies Used
 Frontend: HTML, CSS, JavaScript
 Animations: CSS Animations, JavaScript (GSAP, AOS, or similar libraries)
+![Uploading 1.png…]()
+
 
 Contributing
 We welcome contributions from the community! To contribute to the Multi-Purpose Animated Website, please follow these steps:
