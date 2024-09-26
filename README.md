@@ -14,7 +14,6 @@ Enhance Functionality: Add or modify JavaScript to include additional functional
 Technologies Used
 Frontend: HTML, CSS, JavaScript
 Animations: CSS Animations, JavaScript (GSAP, AOS, or similar libraries)
-![Uploading 1.png…]()
 
 
 Contributing
