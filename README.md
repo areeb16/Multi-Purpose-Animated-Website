@@ -6,6 +6,13 @@ Customizable Components: Easily customizable components to tailor the website to
 Multi-Section Layout: Includes multiple sections such as Home, About, Services, Portfolio, and Contact.
 Interactive Elements: Interactive elements like buttons, forms, and galleries to engage users.
 
+Screenshots:
+![1](https://github.com/user-attachments/assets/0d032f41-662c-456d-a0b0-b92109e5d894)
+![2](https://github.com/user-attachments/assets/6ebefa97-291d-45d9-9546-78fa19a03559)
+![3](https://github.com/user-attachments/assets/f7396091-d610-4453-98a1-4cd92b2a98cf)
+
+
+
 Usage
 Customize Content: Modify the HTML files to update the content of different sections.
 Adjust Styles: Use the CSS files to change the appearance and design elements.
